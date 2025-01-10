@@ -58,7 +58,10 @@ width: 30%;
     font-size: 3rem ;
 }
 .rightsec img{
-    width:38rem
+    width: 25rem;
+    height: 28rem;
+    object-fit:cover;
+    border-radius: 100px;
 }
 .purple{
     color: rgb(148, 65, 224);
